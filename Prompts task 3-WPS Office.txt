@@ -1,0 +1,150 @@
+﻿Prompt engeneering intership task -3
+SEO blogs prompts and outputs:
+Pillar blog prompt:1
+
+You are an expert SEO content strategist and professional blog writer.
+Create a pillar blog for a pet grooming business.
+Business Name: Velvet Paws Pet Spa
+Location: Hyderabad, India
+Industry: Pet Grooming and Pet Spa
+Primary Keyword:
+Best Pet Grooming & Pet Spa in Hyderabad
+Requirements:
+- Generate SEO Title
+- Generate Meta Description
+- Generate H1
+- Write a detailed blog (1500–2000 words)
+- Include H2 and H3 headings
+- Explain pet grooming services
+- Explain pet spa services
+- Explain benefits of professional grooming
+- Include pricing section
+- Include FAQ section
+- Include Call-To-Action
+- Use local SEO targeting Hyderabad
+- Add internal linking suggestions to supporting blogs
+- Use simple, engaging language
+Output must be ready to publish on a business website.
+--prompt 2. Supporting blog-1
+
+You are an expert SEO content strategist.
+Create a supporting SEO blog for the following business.
+Business Name: Velvet Paws Pet Spa
+Location: Hyderabad, India
+Blog Topic:
+Complete Pet Care Guide for First-Time Pet Owners
+Target Keyword:
+Pet Care Guide for First-Time Pet Owners
+Requirements:
+- SEO Title
+- Meta Description
+- H1
+- 1000–1500 word article
+- H2 and H3 headings
+- Explain pet nutrition
+- Explain grooming basics
+- Explain healthcare needs
+- Explain training and socialization
+- Include FAQ section
+- Include internal link suggestion to the pillar blog
+- Use beginner-friendly language
+Format using markdown.
+
+---- prompt 3. Supporting blog -2
+
+You are an expert SEO content strategist.
+Create a supporting SEO blog for the following business.
+Business Name: Velvet Paws Pet Spa
+Location: Hyderabad, India
+Blog Topic:
+How Children Can Play Safely with Pets
+Target Keyword:
+Children and Pets Safety Tips
+Requirements:
+- SEO Title
+- Meta Description
+- H1
+- 1000–1500 word article
+- H2 and H3 headings
+- Explain safe interactions between children and pets
+- Explain pet body language
+- Explain supervision guidelines
+- Suggest fun activities children can do with pets
+- Include FAQ section
+- Include internal link suggestion to the pillar blog
+- Use family-friendly language
+Format using markdown.
+
+--- prompt 4. Supporting blog -3
+
+You are an expert SEO content strategist.
+Create a supporting SEO blog for the following business.
+Business Name: Velvet Paws Pet Spa
+Location: Hyderabad, India
+Blog Topic:
+How Often Should You Groom Your Pet?
+Target Keyword:
+Pet Grooming Schedule
+Requirements:
+- SEO Title
+- Meta Description
+- H1
+- 1000–1500 word article
+- H2 and H3 headings
+- Explain importance of regular grooming
+- Explain grooming frequency by coat type
+- Explain signs a pet needs grooming
+- Explain benefits of professional grooming
+- Include FAQ section
+- Include internal link suggestion to the pillar blog
+- Use easy-to-understand language
+Format using markdown.
+
+--- prompt -5. Supporting blog -4
+
+You are an expert SEO content strategist.
+Create a supporting SEO blog for the following business.
+Business Name: Velvet Paws Pet Spa
+Location: Hyderabad, India
+Blog Topic:
+Top 10 Benefits of Professional Pet Grooming
+Target Keyword:
+Benefits of Professional Pet Grooming
+Requirements:
+- SEO Title
+- Meta Description
+- H1
+- 1000–1500 word article
+- H2 and H3 headings
+- List and explain 10 major grooming benefits
+- Include hygiene, health, comfort, behavior, and wellness benefits
+- Include FAQ section
+- Include internal link suggestion to the pillar blog
+- Use persuasive but informative language
+Format using markdown.
+
+--- prompt 6. Supporting blog -5
+
+You are an expert SEO content strategist.
+Create a supporting SEO blog for the following business.
+Business Name: Velvet Paws Pet Spa
+Location: Hyderabad, India
+Blog Topic:
+Understanding Pet Behavior: What Your Pet Is Trying to Tell You
+Target Keyword:
+Pet Behavior Guide
+Requirements:
+- SEO Title
+- Meta Description
+- H1
+- 1000–1500 word article
+- H2 and H3 headings
+- Explain pet body language
+- Explain common pet behaviors
+- Explain signs of happiness, stress, and anxiety
+- Explain how owners should respond to pet behavior
+- Include FAQ section
+- Include internal link suggestion to the pillar blog
+- Use educational and easy-to-read language
+Format using markdown.
+
