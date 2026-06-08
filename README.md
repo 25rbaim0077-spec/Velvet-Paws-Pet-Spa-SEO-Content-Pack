@@ -1,5 +1,8 @@
-# Velvet-Paws-Pet-Spa-SEO-Content-Pack
-AI-powered SEO Content Cluster project for Velvet Paws Pet Spa, Hyderabad. Includes 1 pillar blog, 5 supporting blogs, structured prompt engineering, keyword strategy, search intent analysis, local SEO optimization, and content cluster planning designed to improve search visibility and business authority
+# Velvet Paws Pet Spa SEO Content Cluster Project
+
+This project was developed as part of the Future Interns Prompt Engineering Task 3 (2026). The objective was to create a complete SEO content cluster for a real business using AI-powered prompt engineering and content generation.
+The selected business is Velvet Paws Pet Spa, a pet grooming and pet spa service based in Hyderabad, India. The project includes a pillar blog, supporting blogs, structured prompts, keyword research, search intent analysis, and a content cluster strategy designed to improve search engine visibility and attract local customers.
+The content and prompts in this repository demonstrate how AI can be used to create scalable, SEO-optimized content for business websites.
 
 ## Project Highlights
 
@@ -10,7 +13,7 @@ Local SEO Optimization
 Content Cluster Strategy
 AI-Generated Content
 
-# Keywords
+## Keywords
 
  Primary Keyword
 
